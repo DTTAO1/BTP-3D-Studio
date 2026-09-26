@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "release": "IA BTP et contrôle qualité",
+  "features": [
+    "premium_ui",
+    "calibration",
+    "recognition",
+    "smart_params",
+    "model3d",
+    "takeoff",
+    "ifc_bim",
+    "phasing",
+    "costing",
+    "assistant"
+  ],
+  "feature_labels": {
+    "premium_ui": "Interface premium responsive",
+    "calibration": "Calibration par 2 points",
+    "recognition": "Reconnaissance BTP enrichie",
+    "smart_params": "Paramètres contextuels",
+    "model3d": "Modèle 3D constructif",
+    "takeoff": "Métrés et contrôle quantités",
+    "ifc_bim": "IFC/BIM enrichi",
+    "phasing": "Phasage 4D simplifié",
+    "costing": "Estimation de prix",
+    "assistant": "Assistant IA local + QA"
+  }
+}
